@@ -1,3 +1,6 @@
+#Name : Ishika Singhal
+#PRN : 24070123048
+
 # EXP3
 AIM:
 To study and implement Operators in C++
