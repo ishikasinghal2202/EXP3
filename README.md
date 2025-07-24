@@ -34,7 +34,35 @@ Operators in C++ are special symbols used to perform operations on variables and
 
 
 SAMPLE OUTPUT: 
+          Student grading program:
+          
+                        Enter marks of subject 1:
+                        80
+                        Enter marks of subject 2:
+                        90
+                        Enter marks of subject 3:
+                        40
+                        Enter marks of subject 4:
+                        60
+                        Enter marks of subject 5:
+                        80
+                        Average: 70
+                        The grade is: C
+                        
+        Positive or negative number program:
+        
+                       Enter a number: 4
+                       The number is positive
 
+        identifying quadrant program:
+
+                      Value of x is:
+                      4
+                      Value of y is:
+                      -2
+                      (x,y) is in 4th Quadrant 
+
+                       
 CONCLUSION:
 Operators form the backbone of C++ programming logic. By understanding how each type works, you can manipulate data, control flow, and evaluate conditions effectively. From basic arithmetic to complex bit manipulation, mastering operators empowers you to write cleaner, more efficient, and powerful code.
 
